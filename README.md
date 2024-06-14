@@ -324,6 +324,7 @@ Huge ups to the following talented and rad folks who helped in countless ways. T
 - 🍝 [@iamkevingreen](https://github.com/iamkevingreen)
 - 🧈 [@mikehwagz](https://github.com/mikehwagz)
 - 😎 [@dictions](https://github.com/dictions)
+- 😎 [@kamil](https://github.com/crane-cele)
 
 ### Designers
 
